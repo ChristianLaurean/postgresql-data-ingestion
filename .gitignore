@@ -1,0 +1,12 @@
+/__pycache__/
+/.vscode/
+/.idea/
+/venv/
+/env/
+/virtualenv/
+*.log
+*.csv
+*.xlsx
+.DS_Store
+Thumbs.db
+/nombre_del_entorno/
